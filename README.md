@@ -302,9 +302,9 @@ p.note { display: none; }
 
 <br><br>
 
-<h2><span class="yellow">今日のBGMは自動再生、ropical Bird Sounds 🌴Beautiful Relaxing Music for Deep Sleep, Meditation, Focus and Study</span></h2>
+<h2><span class="yellow">今日のBGMは、ropical Bird Sounds 🌴Beautiful Relaxing Music for Deep Sleep, Meditation, Focus and Study</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9dPwRmcRMZc?si=0_1AdCkY9nOB6VcN&autoplay=1&mute=0&loop=1&playlist=9dPwRmcRMZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9dPwRmcRMZc?si=0_1AdCkY9nOB6VcN&autoplay=1&mute=1&loop=1&playlist=9dPwRmcRMZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 <br><br><br>
